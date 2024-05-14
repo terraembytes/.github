@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Nós Nós somos o Terra em Bytes.</h1>
+<h1 align="center">Olá 👋, Nós somos o Terra em Bytes.</h1>
 <h3 align="justify">  Somos um grupo de pesquisa dedicado a explorar e expandir os limites da computação em geociências. Nosso foco é aplicar técnicas avançadas de ciência de dados, a modelagem computacional e análise geoespacial para resolver desafios complexos relacionados ao nosso planeta. Desde a previsão de desastres naturais até a análise de recursos naturais e mudanças climáticas, trabalhamos na interseção entre tecnologia e geociências para fornecer insights inovadores e soluções sustentáveis.</h3> 
 <h3 align="justify">  Nossa equipe é composta por pesquisadores apaixonados em áreas como geologia, meteorologia, oceanografia e ciência da computação. Utilizamos ferramentas modernas de inteligência artificial e aprendizado de máquina para interpretar vastos conjuntos de dados e desenvolver modelos preditivos precisos. Acreditamos que a colaboração interdisciplinar é essencial para enfrentar os desafios ambientais e proporcionar um futuro mais resiliente e sustentável.</h3>
 
